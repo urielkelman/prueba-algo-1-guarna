@@ -1,4 +1,4 @@
-def segundo_hola_mundo():
+def hola_mundo_2():
 	print("Hola mundo x")
 
-segundo_hola_mundo()
+hola_mundo_2()
